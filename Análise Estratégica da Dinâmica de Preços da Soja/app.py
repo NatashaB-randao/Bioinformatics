@@ -100,7 +100,7 @@ if df_filtered.empty:
 # =============================================================================
 # 4. DASHBOARD EXECUTIVO (KPIs DINÂMICOS)
 # =============================================================================
-st.title("🌽 Intelligence Desk: Dinâmica de Mercado")
+st.title("🌱 Intelligence Desk: Dinâmica de Mercado")
 st.markdown(f"**Status:** {len(df_filtered)} registros filtrados • **Período:** {start_date.strftime('%d/%m/%Y')} a {end_date.strftime('%d/%m/%Y')}")
 
 # Pega o último dado DO FILTRO (Dinâmico)
