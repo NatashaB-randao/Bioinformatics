@@ -100,7 +100,7 @@ Foi desenvolvido um painel interativo **Dark Mode** para tomada de decisão, con
 ---
 
 ## 📞 Contato
-**Autor:** [Seu Nome]
+**Autor:** Natasha Brandão
 * [LinkedIn](https://www.linkedin.com/in/natasha-brand%C3%A3o/)
 * [Portfólio](https://natashab-randao.github.io/Natasha-Brandao-Data-Analyst/)
 
